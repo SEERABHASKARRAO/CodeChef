@@ -1,2 +1,2 @@
-# Hacker-rank
-codes in python
+# Codechef
+all codes in python
