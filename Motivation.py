@@ -1,4 +1,4 @@
-import operator
+import operator 
 for _ in range(int(input())):
     n,x=map(int,input().split())
     s=[]
