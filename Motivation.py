@@ -2,7 +2,7 @@ import operator
 for _ in range(int(input())):
     n,x=map(int,input().split())
     s=[]
-    for i in range(n): 
+    for i in range(n):
         a,b=map(int,input().split())
         s.append([a,b])
     s.sort(reverse=True,key=operator.itemgetter(1))
