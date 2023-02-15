@@ -1,4 +1,4 @@
-for _ in range(int(input())):
+for _ in range(int(input())): 
         a,b,c=map(int,input().split())
         t=min(b,c)
         b=b-t
