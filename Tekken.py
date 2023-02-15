@@ -9,7 +9,7 @@ for _ in range(int(input())):
         t=min(a,b)
         a=a-t
         b=b-t
-        if(a>0): 
+        if(a>0):
             print("YES")
         else:
             print("NO")
