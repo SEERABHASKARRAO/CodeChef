@@ -2,7 +2,7 @@
 for _ in range(int(input())):
         a,b,c=map(int,input().split())
         t=min(b,c)
-        b=b-t
+        b=b-t 
         c=c-t
         t=min(a,c)
         a=a-t
