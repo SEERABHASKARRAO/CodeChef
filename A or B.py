@@ -7,4 +7,3 @@ for _ in range(int(input())):
     t2=500-((x+y)*2)
     r2=t1+t2
     print(max(r1,r2))
-   
