@@ -1,4 +1,4 @@
-# cook your dish here
+
 for _ in range(int(input())):
     x,y=map(int,input().split())
     s1=500-(x*2)
