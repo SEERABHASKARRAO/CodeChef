@@ -1,4 +1,3 @@
-
 for _ in range(int(input())):
     x,y,a,b=map(int,input().split())
     if (x==a or x==b) and (y==b or y==a):
