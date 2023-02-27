@@ -9,4 +9,4 @@ for _ in range(int(input())):
             p+='1'
         else:
             p+='0'
-    print(p)  
+    print(p) 
