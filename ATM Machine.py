@@ -10,3 +10,4 @@ for _ in range(int(input())):
         else:
             p+='0'
     print(p)
+    
