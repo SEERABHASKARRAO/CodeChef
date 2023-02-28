@@ -1,4 +1,3 @@
-
 r=int(input())
 if(r>=1 and r<=50):
     print(100)
