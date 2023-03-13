@@ -9,5 +9,4 @@ for _ in range(int(input())):
              if(i<j):
                  c+=1
          b.append(c)
-    print(*b)
-                 
+    print(*b)        
