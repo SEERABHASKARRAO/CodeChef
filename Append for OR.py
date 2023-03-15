@@ -1,4 +1,3 @@
-
 for _ in range(int(input())):
         n,y=map(int,input().split())
         l=list(map(int,input().split()))
