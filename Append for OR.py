@@ -8,7 +8,7 @@ for _ in range(int(input())):
         if(res==y):
             print(0)
         else:
-            t=y-res
+            t=y-res 
             if(res|t==y):
                 print(t)
             else:
