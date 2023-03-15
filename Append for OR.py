@@ -13,4 +13,4 @@ for _ in range(int(input())):
                 print(t)
             else:
                 print(-1)
-            
+          
