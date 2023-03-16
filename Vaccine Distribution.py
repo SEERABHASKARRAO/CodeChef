@@ -1,4 +1,3 @@
-
 t = int(input())
 while t:
     n,d=map(int,input().split())
