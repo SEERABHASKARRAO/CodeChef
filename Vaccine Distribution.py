@@ -1,4 +1,4 @@
-# cook your dish here
+
 t = int(input())
 while t:
     n,d=map(int,input().split())
