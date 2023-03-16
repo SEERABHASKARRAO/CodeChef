@@ -1,5 +1,5 @@
 t = int(input())
-while t:
+while t: 
     n,d=map(int,input().split())
     a=list(map(int,input().split()))
     c=0
