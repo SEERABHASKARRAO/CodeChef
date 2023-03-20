@@ -21,7 +21,7 @@ while t!=0:
                 print("Valid")
             else:
                 print("Invalid")
-    
+   
    
     t-=1
            
