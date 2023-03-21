@@ -1,4 +1,3 @@
-# cook your dish here
 for _ in range(int(input())):
     m=int(input())
     l=[1,2,5,10,50,100]
