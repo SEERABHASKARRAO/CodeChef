@@ -1,4 +1,3 @@
-
 for _ in range(int(input())):
     s=input()
     s=list(s)
